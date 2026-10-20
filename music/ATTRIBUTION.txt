@@ -1,0 +1,5 @@
+Spiritual Ambient by MusicLFiles
+Source: https://commons.wikimedia.org/wiki/File:Spiritual_Ambient_by_MusicLFiles.ogg
+License: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Playback conversion: mono 16 kHz G.711 A-law for the camera speaker.
